@@ -1,0 +1,6 @@
+{
+  "name": "Interaktív Periódusos Rendszer",
+  "description": "Modern, interaktív periódusos rendszer magyarul Bohr-atommodellel, elemet összehasonlító grafikonokkal, kvízekkel, AI didaktikus magyarázattal, offline tanulási folyamatkövetéssel és profilokkal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
